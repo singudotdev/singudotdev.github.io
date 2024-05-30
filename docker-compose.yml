@@ -6,3 +6,9 @@ services:
     image: singuuu/singuuu.github.io:latest
     ports:
       - 80:80
+    networks:
+      - bridge
+
+networks:
+  bridge:
+    external: true
