@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-  color: #00e9a3;
+  color: #00b590;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #00e9a3;
+  background: #00b590;
   color: #fff;
 }
 
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #00e9a3;
+  border: 6px solid #00b590;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #00e9a3;
+  background: #00b590;
 }
 
 .nav-menu a:hover span,
@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-active .mobile-nav-toggle {
   color: #fff;
-  background-color: #00e9a3;
+  background-color: #00b590;
 }
 
 /*--------------------------------------------------------------
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: #45505b;
   background-size: cover;
   position: relative;
 }
@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #00e9a3;
+  color: #00b590;
   letter-spacing: 1px;
 }
 
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .social-links a:hover {
-  color: #00e9a3;
+  color: #00b590;
 }
 
 @media (max-width: 992px) {
