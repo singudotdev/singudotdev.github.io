@@ -2,7 +2,6 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
   color: #272829;
 }
 
@@ -16,13 +15,17 @@ a:hover {
   text-decoration: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Raleway", sans-serif;
+body {
+  font-family: 'Hack Nerd Font', sans-serif;
+}
+
+/* Update other relevant CSS rules to use the Hack Nerd Font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Hack Nerd Font', sans-serif;
+}
+
+.typed {
+  font-family: 'Hack Nerd Font', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -299,7 +302,7 @@ h6 {
   color: #45505b;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Hack Nerd Fonts", sans-serif;
 }
 
 #hero p span {
@@ -463,7 +466,7 @@ section {
 .facts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Hack Nerd Font', sans-serif;
   font-size: 14px;
 }
 
@@ -483,7 +486,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Hack Nerd Font', sans-serif;
   color: #45505b;
 }
 
@@ -526,7 +529,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Hack Nerd Font', sans-serif;
   color: #26bb05;
   margin-bottom: 10px;
 }
@@ -1154,7 +1157,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Hack Nerd Font', sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
