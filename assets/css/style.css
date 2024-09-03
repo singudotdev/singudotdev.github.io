@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #1a1a1a;
 }
 
 #preloader:before {
@@ -81,8 +81,8 @@ h1, h2, h3, h4, h5, h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #00b590;
-  border-top-color: #fff;
-  border-bottom-color: #fff;
+  border-top-color: #1a1a1a;
+  border-bottom-color: #1a1a1a;
   border-radius: 50%;
   width: 60px;
   height: 60px;
