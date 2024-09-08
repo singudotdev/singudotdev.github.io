@@ -6,4 +6,10 @@ services:
     image: singuuu/singuuu.github.io:latest
     ports:
       - 80:80
-    network_mode: bridge
+    networks:
+      - npm
+      
+networks:
+  npm:
+    name: npm
+    external: true
