@@ -1,2 +1,2 @@
-# singuuu.github.io
+# singudotdev.github.io
 My Web
