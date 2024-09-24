@@ -1,6 +1,6 @@
 # Singularity
 
 - DevSecOps
-- Software Engineer and Architect
-- Cybersecurity Researcher
+- Software Architecture and Engineering
+- Cybersecurity
 - Pentester
