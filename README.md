@@ -1,2 +1,6 @@
-# singuuu.github.io
-My Web
+# 👽 Singularity
+
+- DevSecOps
+- Software Architecture and Engineering
+- Cybersecurity
+- Pentester
