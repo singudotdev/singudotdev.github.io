@@ -3,7 +3,7 @@ version: '3.9'
 services:
   web:
     container_name: web
-    image: singudotdev/singudotdev.github.io:latest
+    image: harbor.singu.dev/web/web:latest
     ports:
       - 80:80
     networks:
