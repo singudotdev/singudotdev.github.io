@@ -1,6 +1,5 @@
 services:
   web:
-    container_name: web
     image: harbor.singu.dev/web/web:latest
     ports:
       - 80:80
