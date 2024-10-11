@@ -1,6 +1,6 @@
 services:
   web:
-    image: harbor.singu.dev/web/web:latest
+    image: harbor.singu.dev/web/web:main
     ports:
       - 80:80
     networks:
