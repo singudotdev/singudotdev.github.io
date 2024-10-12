@@ -5,4 +5,4 @@
 - Networking
 - System Administration
 - Cybersecurity
-- Pentester
+- Pentesting
