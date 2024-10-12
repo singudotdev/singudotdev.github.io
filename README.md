@@ -2,5 +2,7 @@
 
 - DevSecOps
 - Software Architecture and Engineering
+- Networking
+- System Administration
 - Cybersecurity
 - Pentester
