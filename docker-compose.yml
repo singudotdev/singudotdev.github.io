@@ -3,3 +3,11 @@ services:
     image: registry.singu.dev/web/web:main
     ports:
       - 80:80
+    networks:
+      - web
+
+networks:
+  web:
+    external: false
+    name: web
+    driver: overlay
