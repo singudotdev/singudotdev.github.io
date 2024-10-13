@@ -3,3 +3,8 @@ services:
     image: registry.singu.dev/web/web:main
     ports:
       - 80:80
+    deploy:
+      update_config:
+        parallelism: 1
+      restart_policy:
+        condition: on-failure
