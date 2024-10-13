@@ -1,12 +1,5 @@
 services:
   web:
-    image: harbor.singu.dev/web/web:main
+    image: registry.singu.dev/web/web:main
     ports:
       - 80:80
-    networks:
-      - npm
-      
-networks:
-  npm:
-    name: npm
-    external: true
