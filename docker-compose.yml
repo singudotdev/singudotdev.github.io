@@ -1,6 +1,6 @@
 services:
   web:
-    image: registry.singu.dev/web/web:main
+    image: registry.singu.dev/web/web:master
     ports:
       - 80:80
     networks:
