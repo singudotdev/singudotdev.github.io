@@ -1,6 +1,6 @@
 services:
   web:
-    image: registry.singu.dev/web/web:$${env.IMAGE_VERSION}
+    image: registry.singu.dev/web/web:${IMAGE_TAG}
     ports:
       - 80:80
     networks:
