@@ -6,4 +6,3 @@
 - System Administration
 - Cybersecurity
 - Pentesting
-
